@@ -1,25 +1,47 @@
-![logo](https://github.com/shahrozkhan-tech/shahrozkhan-tech/blob/main/github%20profile%20banner.png)
-<h1 align="center">Hi 👋, I'm SHAHROZ KHAN</h1>
-<h3 align="center">A passionate web-developer from PAKISTAN</h3>
-<img  align="right"  width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTP0lpBo6VuBhuP1jpBhgc9QsJehxwCpR5vzXAmUHD-OBvbiggGRakuxjESKAenCoBAOQQ&usqp=CAU" alt="">
+## Building in public
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shahrozkhan-tech&label=Profile%20views&color=0e75b6&style=flat" alt="shahrozkhan-tech" /> </p>
+<div align="center">
 
-- 👨‍💻 All of my projects are available at [https://sktechagency.netlify.app/](https://sktechagency.netlify.app/)
+# SHAHROZ KHAN 
 
-- 📫 How to reach me **shahrozkhanshahrozkhan389@gmail.com**
+> Technical founder
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/shahrozkhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shahrozkhan" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@shahrozkhan-tech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@shahrozkhan-tech" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/hero?username=shahrozkhan-tech&theme=satan&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F233453423%3Fu%3D68f01dfcb3c4ac88dbb8b01dae3715757af1aded%26v%3D4" alt="shahrozkhan-tech hero visual" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shahrozkhan-tech&show_icons=true&locale=en&layout=compact" alt="shahrozkhan-tech" /></p>
+## The point of view
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shahrozkhan-tech&show_icons=true&locale=en" alt="shahrozkhan-tech" /></p>
+> MERN Stack Developer || Frontend Developer, HTML, CSS,Javascript, React, Nodejs, boostap, Canva Design , Content Creation
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shahrozkhan-tech&" alt="shahrozkhan-tech" /></p>
+- 📍 Based in **Pakistan . karachi **
+- 👥 **4** followers · **5** following
+
+*Small, useful work over vague claims.*
+
+## Products and proof
+
+<table>
+<tr><td width="32%"><b><a href="https://github.com/shahrozkhan-tech/Login-system-with-supabase">Login-system-with-supabase</a></b></td><td>🚀 A modern, fully responsive Login &amp; Signup Authentication System built using HTML, CSS, JavaScript, and Supabase Auth. Features beautiful UI animations and secure email verification!<br/><sub>HTML · 1 stars</sub></td></tr>
+<tr><td width="32%"><b><a href="https://github.com/shahrozkhan-tech/Portfolio-advance-version-">Portfolio-advance-version-</a></b></td><td>🚀 An advanced, modern, and fully responsive personal portfolio website showcasing my frontend development projects, skills, and interactive UI designs. Built with HTML, CSS, JavaScript, and modern design principles.<br/><sub>HTML · 0 stars</sub></td></tr>
+<tr><td width="32%"><b><a href="https://github.com/shahrozkhan-tech/SMS">SMS</a></b></td><td>A selected project from this GitHub profile.<br/><sub>HTML · 0 stars</sub></td></tr>
+<tr><td width="32%"><b><a href="https://github.com/shahrozkhan-tech/Stock-Ledger">Stock-Ledger</a></b></td><td>A selected project from this GitHub profile.<br/><sub>HTML · 0 stars</sub></td></tr>
+</table>
+
+## Momentum
+
+<table>
+<tr><td align="center"><b>34</b><br/><sub>repos</sub></td><td align="center"><b>1</b><br/><sub>stars</sub></td><td align="center"><b>130</b><br/><sub>contributions</sub></td></tr>
+</table>
+
+## Start a conversation
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/social?username=shahrozkhan-tech&theme=satan&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F233453423%3Fu%3D68f01dfcb3c4ac88dbb8b01dae3715757af1aded%26v%3D4" alt="shahrozkhan-tech social visual" />
+</p>
+
+<a href="https://github.com/shahrozkhan-tech">GitHub</a>
+
+<p align="center"><sub>SHAHROZ KHAN  · Founder profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
